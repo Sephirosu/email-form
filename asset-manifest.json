@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/n//sehirosu.github.io/email-form/static/css/main.0f1eae6f.css",
-    "main.js": "/n//sehirosu.github.io/email-form/static/js/main.e49ff138.js",
-    "index.html": "/n//sehirosu.github.io/email-form/index.html",
-    "main.0f1eae6f.css.map": "/n//sehirosu.github.io/email-form/static/css/main.0f1eae6f.css.map",
-    "main.e49ff138.js.map": "/n//sehirosu.github.io/email-form/static/js/main.e49ff138.js.map"
+    "main.css": "/email-form/static/css/main.0f1eae6f.css",
+    "main.js": "/email-form/static/js/main.e49ff138.js",
+    "index.html": "/email-form/index.html",
+    "main.0f1eae6f.css.map": "/email-form/static/css/main.0f1eae6f.css.map",
+    "main.e49ff138.js.map": "/email-form/static/js/main.e49ff138.js.map"
   },
   "entrypoints": [
     "static/css/main.0f1eae6f.css",
